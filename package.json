@@ -1,0 +1,21 @@
+{
+  "name": "personel_trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansicolor": "^1.1.100",
+    "as-table": "^1.0.55",
+    "asciichart": "^1.5.25",
+    "ccxt": "^4.0.86",
+    "dotenv": "^16.3.1",
+    "ololog": "^1.1.175"
+  }
+}
